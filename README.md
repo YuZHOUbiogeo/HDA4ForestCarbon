@@ -1,5 +1,6 @@
 This folder contains 
 data/
+
 0. measured carbon stocks (carbonpools) from forest inventories
 1. carbon stocks (modeled_C_stock_40) estimated by each HDA constraint
 2. posterior parameter sets (para_posterior) after burn-in 
